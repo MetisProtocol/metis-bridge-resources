@@ -1,0 +1,12 @@
+{
+    "ETH": "0x420000000000000000000000000000000000000A",
+    "m.AAVE": "0xd1f0a4e5444eed0fbcd6624dcef7ef33043e6168",
+    "m.CRV": "0x029a43aa51d5924d4c18a42efbc0e0a84ecc355c",
+    "m.DAI": "0x4c078361fc9bbb78df910800a991c7c3dd2f6ce0",
+    "m.LINK": "0xf5f66d5daa89c090a7afa10e6c1553b2887a9a33",
+    "m.UNI": "0xc5cdb08e75595d8c55091cba9b02960b5782b96e",
+    "m.USDC": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+    "m.USDT": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+    "m.WBTC": "0x433e43047b95cb83517abd7c9978bdf7005e9938",
+    "m.WOW": "0x5ce34d9abe4bf239cbc08b89287c87f4cd6d80b7"
+}
