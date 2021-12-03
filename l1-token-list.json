@@ -1,12 +1,4 @@
 {
-    "ETH": {
-        "nativeNetwork": "ethereum",
-        "nativeContractAddress": "0x0000000000000000000000000000000000000000",
-        "denomination": 18,
-        "chainlinkFeedAddress": "0x0000000000000000000000000000000000000000",
-        "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png",
-        "coingeckoId": "ethereum"
-    },
     "USDT": {
         "nativeNetwork": "ethereum",
         "nativeContractAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -15,46 +7,6 @@
         "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
         "coingeckoId": "tether"
     },
-    "DAI": {
-        "nativeNetwork": "ethereum",
-        "nativeContractAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "denomination": 18,
-        "chainlinkFeedAddress": "0x773616E4d11A78F511299002da57A0a94577F1f4",
-        "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/DAI/logo.png",
-        "coingeckoId": "dai"
-    },
-    "LINK": {
-        "nativeNetwork": "ethereum",
-        "nativeContractAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
-        "denomination": 18,
-        "chainlinkFeedAddress": "0xDC530D9457755926550b59e8ECcdaE7624181557",
-        "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/LINK/logo.png",
-        "coingeckoId": "chainlink"
-    },
-    "UNI": {
-        "nativeNetwork": "ethereum",
-        "nativeContractAddress": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-        "denomination": 18,
-        "chainlinkFeedAddress": "0xD6aA3D25116d8dA79Ea0246c4826EB951872e02e",
-        "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/UNI/logo.png",
-        "coingeckoId": "uniswap"
-    },
-    "AAVE": {
-        "nativeNetwork": "ethereum",
-        "nativeContractAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-        "denomination": 18,
-        "chainlinkFeedAddress": "0x6Df09E975c830ECae5bd4eD9d90f3A95a4f88012",
-        "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/AAVE/logo.png",
-        "coingeckoId": "aave"
-    },
-    "WBTC": {
-        "nativeNetwork": "ethereum",
-        "nativeContractAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-        "denomination": 8,
-        "chainlinkFeedAddress": "0xdeb288F737066589598e9214E782fa5A8eD689e8",
-        "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WBTC/logo.png",
-        "coingeckoId": "wrapped-bitcoin"
-    },
     "USDC": {
         "nativeNetwork": "ethereum",
         "nativeContractAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -62,14 +14,6 @@
         "chainlinkFeedAddress": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
         "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png",
         "coingeckoId": "usd-coin"
-    },
-    "CRV": {
-        "nativeNetwork": "ethereum",
-        "nativeContractAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
-        "denomination": 18,
-        "chainlinkFeedAddress": "0x8a12Be339B0cD1829b91Adc01977caa5E9ac121e",
-        "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/CRV/logo.png",
-        "coingeckoId": "curve-dao-token"
     },
     "WOW": {
         "nativeNetwork": "ethereum",
