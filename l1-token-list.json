@@ -3,7 +3,7 @@
         "nativeNetwork": "ethereum",
         "nativeContractAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
         "denomination": 6,
-        "chainlinkFeedAddress": "0x0bF499444525a23E7Bb61997539725cA2e928138",
+        "chainlinkFeedAddress": "0x2ca5A90D34cA333661083F89D831f757A9A50148",
         "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
         "coingeckoId": "tether"
     },
@@ -11,7 +11,7 @@
         "nativeNetwork": "ethereum",
         "nativeContractAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "denomination": 6,
-        "chainlinkFeedAddress": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
+        "chainlinkFeedAddress": "0x9211c6b3BF41A10F78539810Cf5c64e1BB78Ec60",
         "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png",
         "coingeckoId": "usd-coin"
     },
