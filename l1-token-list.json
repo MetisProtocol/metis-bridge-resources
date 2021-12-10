@@ -22,5 +22,13 @@
         "chainlinkFeedAddress": "0x0000000000000000000000000000000000000000",
         "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WOW/logo.png",
         "coingeckoId": "wowswap"
+    },
+    "LINK": {
+        "nativeNetwork": "ethereum",
+        "nativeContractAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "denomination": 18,
+        "chainlinkFeedAddress": "0xDC530D9457755926550b59e8ECcdaE7624181557",
+        "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/LINK/logo.png",
+        "coingeckoId": "chainlink"
     }
 }
