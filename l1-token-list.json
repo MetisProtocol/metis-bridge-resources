@@ -1,4 +1,12 @@
 {
+    "ETH": {
+        "nativeNetwork": "ethereum",
+        "nativeContractAddress": "0x0000000000000000000000000000000000000000",
+        "denomination": 18,
+        "chainlinkFeedAddress": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419",
+        "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png",
+        "coingeckoId": "ethereum"
+    },
     "USDT": {
         "nativeNetwork": "ethereum",
         "nativeContractAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
