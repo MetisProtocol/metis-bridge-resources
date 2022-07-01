@@ -38,5 +38,13 @@
         "chainlinkFeedAddress": "0xDC530D9457755926550b59e8ECcdaE7624181557",
         "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/LINK/logo.png",
         "coingeckoId": "chainlink"
+    },
+    "DAI": {
+        "nativeNetwork": "ethereum",
+        "nativeContractAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "denomination": 18,
+        "chainlinkFeedAddress": "0xaed0c38402a5d19df6e4c03f4e2dced6e29c1ee9",
+        "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/DAI/logo.png",
+        "coingeckoId": "chainlink"
     }
 }
