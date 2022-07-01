@@ -45,6 +45,14 @@
         "denomination": 18,
         "chainlinkFeedAddress": "0xaed0c38402a5d19df6e4c03f4e2dced6e29c1ee9",
         "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/DAI/logo.png",
-        "coingeckoId": "chainlink"
+        "coingeckoId": "dai"
+    },
+    "AAVE": {
+        "nativeNetwork": "ethereum",
+        "nativeContractAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+        "denomination": 18,
+        "chainlinkFeedAddress": "0x547a514d5e3769680Ce22B2361c10Ea13619e8a9",
+        "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/AAVE/logo.png",
+        "coingeckoId": "aave"
     }
 }
