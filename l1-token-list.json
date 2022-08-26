@@ -62,5 +62,13 @@
         "chainlinkFeedAddress": "0xcc70f09a6cc17553b2e31954cd36e4a2d89501f7",
         "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/SUSHI/logo.png",
         "coingeckoId": "sushi"
+    },
+    "BUSD": {
+        "nativeNetwork": "ethereum",
+        "nativeContractAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+        "denomination": 18,
+        "chainlinkFeedAddress": "0x833D8Eb16D306ed1FbB5D7A2E019e106B960965A",
+        "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/BUSD/logo.png",
+        "coingeckoId": "binance-usd"
     }
 }

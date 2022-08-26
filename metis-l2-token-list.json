@@ -6,5 +6,6 @@
     "WETH": "0x420000000000000000000000000000000000000A",
     "m.DAI": "0x4c078361fc9bbb78df910800a991c7c3dd2f6ce0",
     "m.AAVE": "0xd1f0a4e5444eed0fbcd6624dcef7ef33043e6168",
-    "m.SUSHI": "0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c"
+    "m.SUSHI": "0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c",
+    "m.BUSD": "0xb809cda0c2f79f43248c32b5dcb09d5cd26bbf10"
 }
