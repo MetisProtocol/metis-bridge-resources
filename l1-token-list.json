@@ -70,5 +70,13 @@
         "chainlinkFeedAddress": "0x833D8Eb16D306ed1FbB5D7A2E019e106B960965A",
         "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/BUSD/logo.png",
         "coingeckoId": "binance-usd"
+    },
+    "WBTC": {
+        "nativeNetwork": "ethereum",
+        "nativeContractAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "denomination": 18,
+        "chainlinkFeedAddress": "0xf4030086522a5beea4988f8ca5b36dbc97bee88c",
+        "logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WBTC/logo.png",
+        "coingeckoId": "wrapped-bitcoin"
     }
 }
